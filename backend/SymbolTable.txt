@@ -1,0 +1,3 @@
+NAME : i   TYPE : int   CATEGORY : variable   SCOPE : 0
+NAME : a   TYPE : int   CATEGORY : variable   SCOPE : 0
+NAME : b   TYPE : int   CATEGORY : variable   SCOPE : 0

@@ -1,0 +1,8 @@
+a = b
+i = 0
+L0 :
+if i < 10 goto L1
+goto L2
+L1 :
+goto L0
+L2 :
